@@ -109,7 +109,7 @@ buildscript {
     <img src="https://github.com/prog-cy/TechNewsApp/blob/master/screen6.jpeg" width = "200" height = "400"
     margin = "10">
     <img src="https://github.com/prog-cy/TechNewsApp/blob/master/screen7.jpeg" width = "200" height = "400"
-    margin = "10"
+    margin = "10">
     <img src="https://github.com/prog-cy/TechNewsApp/blob/master/screen8.jpeg" width = "200" height = "400"
     margin = "10">    
 
