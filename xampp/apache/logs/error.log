@@ -1,0 +1,175 @@
+[Tue Feb 21 13:08:10.733836 2023] [ssl:warn] [pid 5272:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 21 13:08:10.810631 2023] [ssl:warn] [pid 5272:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 21 13:08:10.913356 2023] [mpm_winnt:notice] [pid 5272:tid 416] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0 configured -- resuming normal operations
+[Tue Feb 21 13:08:10.913356 2023] [mpm_winnt:notice] [pid 5272:tid 416] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Tue Feb 21 13:08:10.913356 2023] [core:notice] [pid 5272:tid 416] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Feb 21 13:08:10.928316 2023] [mpm_winnt:notice] [pid 5272:tid 416] AH00418: Parent: Created child process 6012
+[Tue Feb 21 13:08:11.854837 2023] [ssl:warn] [pid 6012:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 21 13:08:11.937615 2023] [ssl:warn] [pid 6012:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 21 13:08:12.038345 2023] [mpm_winnt:notice] [pid 6012:tid 420] AH00354: Child: Starting 150 worker threads.
+[Tue Feb 21 13:14:18.754717 2023] [ssl:warn] [pid 8272:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 21 13:14:18.819544 2023] [ssl:warn] [pid 8272:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 21 13:14:18.883374 2023] [mpm_winnt:notice] [pid 8272:tid 356] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0 configured -- resuming normal operations
+[Tue Feb 21 13:14:18.883374 2023] [mpm_winnt:notice] [pid 8272:tid 356] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Tue Feb 21 13:14:18.883374 2023] [core:notice] [pid 8272:tid 356] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Feb 21 13:14:18.890355 2023] [mpm_winnt:notice] [pid 8272:tid 356] AH00418: Parent: Created child process 7808
+[Tue Feb 21 13:14:19.677272 2023] [ssl:warn] [pid 7808:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 21 13:14:19.739071 2023] [ssl:warn] [pid 7808:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 21 13:14:19.800906 2023] [mpm_winnt:notice] [pid 7808:tid 448] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 23 12:30:36.546688 2023] [ssl:warn] [pid 7964:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 23 12:30:36.607527 2023] [core:warn] [pid 7964:tid 420] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 23 12:30:36.612515 2023] [ssl:warn] [pid 7964:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 23 12:30:37.068702 2023] [mpm_winnt:notice] [pid 7964:tid 420] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0 configured -- resuming normal operations
+[Thu Feb 23 12:30:37.068702 2023] [mpm_winnt:notice] [pid 7964:tid 420] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Thu Feb 23 12:30:37.068702 2023] [core:notice] [pid 7964:tid 420] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 23 12:30:37.071695 2023] [mpm_winnt:notice] [pid 7964:tid 420] AH00418: Parent: Created child process 13408
+[Thu Feb 23 12:30:37.648152 2023] [ssl:warn] [pid 13408:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 23 12:30:37.707995 2023] [ssl:warn] [pid 13408:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 23 12:30:37.769827 2023] [mpm_winnt:notice] [pid 13408:tid 448] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 23 19:30:24.953342 2023] [ssl:warn] [pid 15256:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 23 19:30:25.015834 2023] [core:warn] [pid 15256:tid 428] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 23 19:30:25.019825 2023] [ssl:warn] [pid 15256:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 23 19:30:25.210314 2023] [mpm_winnt:notice] [pid 15256:tid 428] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0 configured -- resuming normal operations
+[Thu Feb 23 19:30:25.210314 2023] [mpm_winnt:notice] [pid 15256:tid 428] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Thu Feb 23 19:30:25.210314 2023] [core:notice] [pid 15256:tid 428] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 23 19:30:25.215302 2023] [mpm_winnt:notice] [pid 15256:tid 428] AH00418: Parent: Created child process 3176
+[Thu Feb 23 19:30:25.795432 2023] [ssl:warn] [pid 3176:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 23 19:30:25.852257 2023] [ssl:warn] [pid 3176:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 23 19:30:25.910326 2023] [mpm_winnt:notice] [pid 3176:tid 436] AH00354: Child: Starting 150 worker threads.
+[Fri Feb 24 09:57:08.584985 2023] [ssl:warn] [pid 2976:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 24 09:57:08.725789 2023] [core:warn] [pid 2976:tid 408] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 24 09:57:08.731808 2023] [ssl:warn] [pid 2976:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 24 09:57:09.578117 2023] [mpm_winnt:notice] [pid 2976:tid 408] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0 configured -- resuming normal operations
+[Fri Feb 24 09:57:09.578117 2023] [mpm_winnt:notice] [pid 2976:tid 408] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Fri Feb 24 09:57:09.578117 2023] [core:notice] [pid 2976:tid 408] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Feb 24 09:57:09.586210 2023] [mpm_winnt:notice] [pid 2976:tid 408] AH00418: Parent: Created child process 1492
+[Fri Feb 24 09:57:10.712335 2023] [ssl:warn] [pid 1492:tid 412] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 24 09:57:10.810859 2023] [ssl:warn] [pid 1492:tid 412] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 24 09:57:10.916568 2023] [mpm_winnt:notice] [pid 1492:tid 412] AH00354: Child: Starting 150 worker threads.
+[Fri Feb 24 11:12:16.383160 2023] [php:error] [pid 1492:tid 1856] [client ::1:65264] PHP Parse error:  syntax error, unexpected token "}" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 661, referer: http://localhost/newsapp/wp-admin/plugins.php
+[Fri Feb 24 11:12:16.414372 2023] [php:warn] [pid 1492:tid 1856] [client ::1:65264] PHP Warning:  Trying to access array offset on value of type bool in C:\\xampp\\htdocs\\newsapp\\wp-includes\\class-wp-recovery-mode-email-service.php on line 372, referer: http://localhost/newsapp/wp-admin/plugins.php
+[Fri Feb 24 11:12:16.414372 2023] [php:warn] [pid 1492:tid 1856] [client ::1:65264] PHP Warning:  Trying to access array offset on value of type bool in C:\\xampp\\htdocs\\newsapp\\wp-includes\\class-wp-recovery-mode-email-service.php on line 373, referer: http://localhost/newsapp/wp-admin/plugins.php
+[Fri Feb 24 11:14:17.368538 2023] [php:error] [pid 1492:tid 1856] [client ::1:65295] PHP Parse error:  syntax error, unexpected single-quoted string "callback", expecting ")" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 663, referer: http://localhost/newsapp/wp-admin/plugins.php
+[Fri Feb 24 11:16:18.394452 2023] [php:error] [pid 1492:tid 1856] [client ::1:65328] PHP Parse error:  syntax error, unexpected single-quoted string "callback", expecting ")" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 667, referer: http://localhost/newsapp/wp-admin/plugins.php
+[Fri Feb 24 11:18:01.835086 2023] [php:error] [pid 1492:tid 1856] [client ::1:65347] PHP Parse error:  syntax error, unexpected single-quoted string "callback", expecting ")" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 667
+[Fri Feb 24 11:18:48.568862 2023] [php:error] [pid 1492:tid 1848] [client ::1:65348] PHP Parse error:  syntax error, unexpected single-quoted string "callback", expecting ")" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 667
+[Fri Feb 24 11:18:50.620936 2023] [php:error] [pid 1492:tid 1856] [client ::1:65353] PHP Parse error:  syntax error, unexpected single-quoted string "callback", expecting ")" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 667
+[Fri Feb 24 11:18:51.101355 2023] [php:error] [pid 1492:tid 1848] [client ::1:65355] PHP Parse error:  syntax error, unexpected single-quoted string "callback", expecting ")" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 667
+[Fri Feb 24 11:19:16.276992 2023] [php:error] [pid 1492:tid 1856] [client ::1:65357] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 674
+[Fri Feb 24 11:20:14.276263 2023] [php:error] [pid 1492:tid 1848] [client ::1:65362] PHP Parse error:  syntax error, unexpected single-quoted string "callback", expecting ")" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 667
+[Fri Feb 24 11:20:15.950732 2023] [php:error] [pid 1492:tid 1856] [client ::1:65369] PHP Parse error:  syntax error, unexpected single-quoted string "callback", expecting ")" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 667
+[Fri Feb 24 11:20:17.348484 2023] [php:error] [pid 1492:tid 1848] [client ::1:65371] PHP Parse error:  syntax error, unexpected single-quoted string "callback", expecting ")" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 667
+[Fri Feb 24 11:20:17.850817 2023] [php:error] [pid 1492:tid 1856] [client ::1:65373] PHP Parse error:  syntax error, unexpected single-quoted string "callback", expecting ")" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 667
+[Fri Feb 24 11:20:18.371543 2023] [php:error] [pid 1492:tid 1848] [client ::1:65375] PHP Parse error:  syntax error, unexpected single-quoted string "callback", expecting ")" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 667
+[Fri Feb 24 11:24:48.074662 2023] [php:error] [pid 1492:tid 1848] [client ::1:65405] PHP Fatal error:  Uncaught Error: Call to undefined function regist_rest_route() in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php:664\nStack trace:\n#0 C:\\xampp\\htdocs\\newsapp\\wp-includes\\class-wp-hook.php(308): {closure}(Object(WP_REST_Server))\n#1 C:\\xampp\\htdocs\\newsapp\\wp-includes\\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)\n#2 C:\\xampp\\htdocs\\newsapp\\wp-includes\\plugin.php(517): WP_Hook->do_action(Array)\n#3 C:\\xampp\\htdocs\\newsapp\\wp-includes\\rest-api.php(577): do_action('rest_api_init', Object(WP_REST_Server))\n#4 C:\\xampp\\htdocs\\newsapp\\wp-includes\\rest-api.php(403): rest_get_server()\n#5 C:\\xampp\\htdocs\\newsapp\\wp-includes\\class-wp-hook.php(308): rest_api_loaded(Object(WP))\n#6 C:\\xampp\\htdocs\\newsapp\\wp-includes\\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)\n#7 C:\\xampp\\htdocs\\newsapp\\wp-includes\\plugin.php(565): WP_Hook->do_action(Array)\n#8 C:\\xampp\\htdocs\\newsapp\\wp-includes\\class-wp.php(399): do_action_ref_array('parse_request', Array)\n#9 C:\\xampp\\htdocs\\newsapp\\wp-includes\\class-wp.php(780): WP->parse_request('')\n#10 C:\\xampp\\htdocs\\newsapp\\wp-includes\\functions.php(1332): WP->main('')\n#11 C:\\xampp\\htdocs\\newsapp\\wp-blog-header.php(16): wp()\n#12 C:\\xampp\\htdocs\\newsapp\\index.php(17): require('C:\\\\xampp\\\\htdocs...')\n#13 {main}\n  thrown in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 664
+[Fri Feb 24 11:35:43.688142 2023] [php:warn] [pid 1492:tid 1856] [client ::1:65518] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php:684) in C:\\xampp\\htdocs\\newsapp\\wp-includes\\rest-api\\class-wp-rest-server.php on line 1752
+[Fri Feb 24 11:54:54.994078 2023] [php:error] [pid 1492:tid 1848] [client ::1:49757] PHP Fatal error:  Uncaught Error: Undefined constant "image" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php:701\nStack trace:\n#0 C:\\xampp\\htdocs\\newsapp\\wp-includes\\rest-api\\class-wp-rest-server.php(1171): homepage_function(Object(WP_REST_Request))\n#1 C:\\xampp\\htdocs\\newsapp\\wp-includes\\rest-api\\class-wp-rest-server.php(1018): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/api/homepage_a...', Array, NULL)\n#2 C:\\xampp\\htdocs\\newsapp\\wp-includes\\rest-api\\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))\n#3 C:\\xampp\\htdocs\\newsapp\\wp-includes\\rest-api.php(410): WP_REST_Server->serve_request('/api/homepage_a...')\n#4 C:\\xampp\\htdocs\\newsapp\\wp-includes\\class-wp-hook.php(308): rest_api_loaded(Object(WP))\n#5 C:\\xampp\\htdocs\\newsapp\\wp-includes\\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)\n#6 C:\\xampp\\htdocs\\newsapp\\wp-includes\\plugin.php(565): WP_Hook->do_action(Array)\n#7 C:\\xampp\\htdocs\\newsapp\\wp-includes\\class-wp.php(399): do_action_ref_array('parse_request', Array)\n#8 C:\\xampp\\htdocs\\newsapp\\wp-includes\\class-wp.php(780): WP->parse_request('')\n#9 C:\\xampp\\htdocs\\newsapp\\wp-includes\\functions.php(1332): WP->main('')\n#10 C:\\xampp\\htdocs\\newsapp\\wp-blog-header.php(16): wp()\n#11 C:\\xampp\\htdocs\\newsapp\\index.php(17): require('C:\\\\xampp\\\\htdocs...')\n#12 {main}\n  thrown in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 701
+[Fri Feb 24 18:32:17.910193 2023] [php:error] [pid 1492:tid 1868] [client ::1:58284] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 671, referer: http://localhost/newsapp/wp-admin/edit.php
+[Fri Feb 24 19:15:24.915814 2023] [php:error] [pid 1492:tid 1840] [client ::1:58558] PHP Parse error:  syntax error, unexpected token "}" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 701, referer: http://localhost/newsapp/wp-admin/edit.php?post_type=banners
+[Fri Feb 24 19:45:56.096099 2023] [php:warn] [pid 1492:tid 1840] [client ::1:59789] PHP Warning:  Undefined variable $bannerData in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 708
+[Fri Feb 24 19:45:56.096099 2023] [php:warn] [pid 1492:tid 1840] [client ::1:59789] PHP Warning:  Attempt to read property "posts" on null in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 708
+[Fri Feb 24 19:45:56.096099 2023] [php:warn] [pid 1492:tid 1840] [client ::1:59789] PHP Warning:  foreach() argument must be of type array|object, null given in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 708
+[Fri Feb 24 19:56:57.952596 2023] [php:error] [pid 1492:tid 1840] [client ::1:60899] PHP Parse error:  syntax error, unexpected token ")" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 698, referer: http://localhost/newsapp/wp-admin/post.php?post=53&action=edit
+[Fri Feb 24 20:08:38.866592 2023] [php:error] [pid 1492:tid 1844] [client ::1:61030] PHP Parse error:  syntax error, unexpected token "}" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 825, referer: http://localhost/newsapp/wp-admin/edit-tags.php?taxonomy=category
+[Fri Feb 24 20:10:39.896501 2023] [php:error] [pid 1492:tid 1844] [client ::1:61055] PHP Parse error:  syntax error, unexpected variable "$data", expecting ")" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 826, referer: http://localhost/newsapp/wp-admin/edit-tags.php?taxonomy=category
+[Fri Feb 24 20:12:40.958889 2023] [php:error] [pid 1492:tid 1844] [client ::1:61075] PHP Parse error:  syntax error, unexpected variable "$data", expecting ")" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 826, referer: http://localhost/newsapp/wp-admin/edit-tags.php?taxonomy=category
+[Fri Feb 24 20:14:41.984456 2023] [php:error] [pid 1492:tid 1844] [client ::1:61092] PHP Parse error:  syntax error, unexpected variable "$data", expecting ")" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 826, referer: http://localhost/newsapp/wp-admin/edit-tags.php?taxonomy=category
+[Fri Feb 24 20:14:43.549629 2023] [php:error] [pid 1492:tid 1844] [client ::1:61095] PHP Parse error:  syntax error, unexpected variable "$data", expecting ")" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 826
+[Fri Feb 24 20:15:04.579078 2023] [php:error] [pid 1492:tid 1868] [client ::1:61096] PHP Parse error:  syntax error, unexpected token "=" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 838
+[Fri Feb 24 20:15:43.655804 2023] [php:warn] [pid 1492:tid 1844] [client ::1:61109] PHP Warning:  Undefined variable $data in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 832
+[Fri Feb 24 20:15:43.656803 2023] [php:warn] [pid 1492:tid 1844] [client ::1:61109] PHP Warning:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 832
+[Fri Feb 24 20:16:53.427128 2023] [php:warn] [pid 1492:tid 1868] [client ::1:61119] PHP Warning:  Undefined variable $data in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 832
+[Fri Feb 24 20:16:53.428091 2023] [php:warn] [pid 1492:tid 1868] [client ::1:61119] PHP Warning:  Trying to access array offset on value of type null in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 832
+[Fri Feb 24 20:51:18.896220 2023] [php:error] [pid 1492:tid 1840] [client ::1:61494] PHP Parse error:  syntax error, unexpected token ")", expecting "(" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 831, referer: http://localhost/newsapp/wp-admin/edit.php?post_type=acf-field-group
+[Fri Feb 24 20:52:14.154034 2023] [php:error] [pid 1492:tid 1840] [client ::1:61517] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 834
+[Fri Feb 24 20:52:54.706627 2023] [php:error] [pid 1492:tid 1836] [client ::1:61518] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\\xampp\\htdocs\\newsapp\\wp-content\\themes\\twentytwentyone\\functions.php on line 834
+[Sat Feb 25 09:58:07.812820 2023] [ssl:warn] [pid 13484:tid 412] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 25 09:58:07.869633 2023] [core:warn] [pid 13484:tid 412] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 25 09:58:07.874620 2023] [ssl:warn] [pid 13484:tid 412] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 25 09:58:08.261914 2023] [mpm_winnt:notice] [pid 13484:tid 412] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0 configured -- resuming normal operations
+[Sat Feb 25 09:58:08.261914 2023] [mpm_winnt:notice] [pid 13484:tid 412] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sat Feb 25 09:58:08.261914 2023] [core:notice] [pid 13484:tid 412] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Feb 25 09:58:08.266900 2023] [mpm_winnt:notice] [pid 13484:tid 412] AH00418: Parent: Created child process 10780
+[Sat Feb 25 09:58:08.870319 2023] [ssl:warn] [pid 10780:tid 460] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 25 09:58:08.926135 2023] [ssl:warn] [pid 10780:tid 460] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 25 09:58:08.987969 2023] [mpm_winnt:notice] [pid 10780:tid 460] AH00354: Child: Starting 150 worker threads.
+[Sat Feb 25 16:50:17.442622 2023] [ssl:warn] [pid 13908:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 25 16:50:17.500833 2023] [core:warn] [pid 13908:tid 444] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 25 16:50:17.505819 2023] [ssl:warn] [pid 13908:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 25 16:50:17.922735 2023] [mpm_winnt:notice] [pid 13908:tid 444] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0 configured -- resuming normal operations
+[Sat Feb 25 16:50:17.922735 2023] [mpm_winnt:notice] [pid 13908:tid 444] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sat Feb 25 16:50:17.922735 2023] [core:notice] [pid 13908:tid 444] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Feb 25 16:50:17.926689 2023] [mpm_winnt:notice] [pid 13908:tid 444] AH00418: Parent: Created child process 14912
+[Sat Feb 25 16:50:18.604841 2023] [ssl:warn] [pid 14912:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 25 16:50:18.660684 2023] [ssl:warn] [pid 14912:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 25 16:50:18.721522 2023] [mpm_winnt:notice] [pid 14912:tid 436] AH00354: Child: Starting 150 worker threads.
+[Sun Feb 26 11:02:22.689389 2023] [ssl:warn] [pid 1220:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 26 11:02:22.756271 2023] [core:warn] [pid 1220:tid 408] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Feb 26 11:02:22.761938 2023] [ssl:warn] [pid 1220:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 26 11:02:22.839538 2023] [mpm_winnt:notice] [pid 1220:tid 408] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0 configured -- resuming normal operations
+[Sun Feb 26 11:02:22.839538 2023] [mpm_winnt:notice] [pid 1220:tid 408] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Feb 26 11:02:22.839538 2023] [core:notice] [pid 1220:tid 408] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Feb 26 11:02:22.845850 2023] [mpm_winnt:notice] [pid 1220:tid 408] AH00418: Parent: Created child process 6828
+[Sun Feb 26 11:02:23.954561 2023] [ssl:warn] [pid 6828:tid 412] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 26 11:02:24.035684 2023] [ssl:warn] [pid 6828:tid 412] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 26 11:02:24.132570 2023] [mpm_winnt:notice] [pid 6828:tid 412] AH00354: Child: Starting 150 worker threads.
+[Mon Feb 27 12:29:52.348145 2023] [ssl:warn] [pid 6636:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 12:29:52.413017 2023] [core:warn] [pid 6636:tid 420] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 27 12:29:52.419995 2023] [ssl:warn] [pid 6636:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 12:29:52.888125 2023] [mpm_winnt:notice] [pid 6636:tid 420] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0 configured -- resuming normal operations
+[Mon Feb 27 12:29:52.888125 2023] [mpm_winnt:notice] [pid 6636:tid 420] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Mon Feb 27 12:29:52.888125 2023] [core:notice] [pid 6636:tid 420] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Feb 27 12:29:52.892514 2023] [mpm_winnt:notice] [pid 6636:tid 420] AH00418: Parent: Created child process 14196
+[Mon Feb 27 12:29:53.580088 2023] [ssl:warn] [pid 14196:tid 412] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 12:29:53.636856 2023] [ssl:warn] [pid 14196:tid 412] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 12:29:53.699911 2023] [mpm_winnt:notice] [pid 14196:tid 412] AH00354: Child: Starting 150 worker threads.
+[Mon Feb 27 13:35:20.624345 2023] [ssl:warn] [pid 14604:tid 460] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 13:35:20.683156 2023] [core:warn] [pid 14604:tid 460] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 27 13:35:20.688142 2023] [ssl:warn] [pid 14604:tid 460] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 13:35:20.749979 2023] [mpm_winnt:notice] [pid 14604:tid 460] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0 configured -- resuming normal operations
+[Mon Feb 27 13:35:20.749979 2023] [mpm_winnt:notice] [pid 14604:tid 460] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Mon Feb 27 13:35:20.749979 2023] [core:notice] [pid 14604:tid 460] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Feb 27 13:35:20.754456 2023] [mpm_winnt:notice] [pid 14604:tid 460] AH00418: Parent: Created child process 11932
+[Mon Feb 27 13:35:21.451833 2023] [ssl:warn] [pid 11932:tid 412] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 13:35:21.515621 2023] [ssl:warn] [pid 11932:tid 412] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 13:35:21.582441 2023] [mpm_winnt:notice] [pid 11932:tid 412] AH00354: Child: Starting 150 worker threads.
+[Mon Feb 27 13:39:29.185212 2023] [ssl:warn] [pid 16256:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 13:39:29.246049 2023] [core:warn] [pid 16256:tid 416] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 27 13:39:29.250038 2023] [ssl:warn] [pid 16256:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 13:39:29.312870 2023] [mpm_winnt:notice] [pid 16256:tid 416] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0 configured -- resuming normal operations
+[Mon Feb 27 13:39:29.312870 2023] [mpm_winnt:notice] [pid 16256:tid 416] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Mon Feb 27 13:39:29.312870 2023] [core:notice] [pid 16256:tid 416] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Feb 27 13:39:29.316860 2023] [mpm_winnt:notice] [pid 16256:tid 416] AH00418: Parent: Created child process 14184
+[Mon Feb 27 13:39:29.891083 2023] [ssl:warn] [pid 14184:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 13:39:29.947666 2023] [ssl:warn] [pid 14184:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 13:39:30.007506 2023] [mpm_winnt:notice] [pid 14184:tid 448] AH00354: Child: Starting 150 worker threads.
+[Mon Feb 27 13:49:19.851984 2023] [ssl:warn] [pid 15204:tid 412] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 13:49:19.909892 2023] [core:warn] [pid 15204:tid 412] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 27 13:49:19.915875 2023] [ssl:warn] [pid 15204:tid 412] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 13:49:19.973721 2023] [mpm_winnt:notice] [pid 15204:tid 412] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0 configured -- resuming normal operations
+[Mon Feb 27 13:49:19.974718 2023] [mpm_winnt:notice] [pid 15204:tid 412] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Mon Feb 27 13:49:19.974718 2023] [core:notice] [pid 15204:tid 412] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Feb 27 13:49:19.978709 2023] [mpm_winnt:notice] [pid 15204:tid 412] AH00418: Parent: Created child process 15280
+[Mon Feb 27 13:49:20.577108 2023] [ssl:warn] [pid 15280:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 13:49:20.633296 2023] [ssl:warn] [pid 15280:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 13:49:20.693132 2023] [mpm_winnt:notice] [pid 15280:tid 440] AH00354: Child: Starting 150 worker threads.
+[Mon Feb 27 13:50:34.394520 2023] [ssl:warn] [pid 16704:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 13:50:34.454813 2023] [core:warn] [pid 16704:tid 432] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 27 13:50:34.459802 2023] [ssl:warn] [pid 16704:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 13:50:34.528617 2023] [mpm_winnt:notice] [pid 16704:tid 432] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0 configured -- resuming normal operations
+[Mon Feb 27 13:50:34.528617 2023] [mpm_winnt:notice] [pid 16704:tid 432] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Mon Feb 27 13:50:34.528617 2023] [core:notice] [pid 16704:tid 432] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Feb 27 13:50:34.532603 2023] [mpm_winnt:notice] [pid 16704:tid 432] AH00418: Parent: Created child process 16608
+[Mon Feb 27 13:50:35.174215 2023] [ssl:warn] [pid 16608:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 13:50:35.229988 2023] [ssl:warn] [pid 16608:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 13:50:35.289828 2023] [mpm_winnt:notice] [pid 16608:tid 436] AH00354: Child: Starting 150 worker threads.
+[Mon Feb 27 17:31:24.240231 2023] [ssl:warn] [pid 11252:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 17:31:24.316293 2023] [core:warn] [pid 11252:tid 416] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 27 17:31:24.323207 2023] [ssl:warn] [pid 11252:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 17:31:24.747320 2023] [mpm_winnt:notice] [pid 11252:tid 416] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0 configured -- resuming normal operations
+[Mon Feb 27 17:31:24.747320 2023] [mpm_winnt:notice] [pid 11252:tid 416] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Mon Feb 27 17:31:24.747320 2023] [core:notice] [pid 11252:tid 416] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Feb 27 17:31:24.752485 2023] [mpm_winnt:notice] [pid 11252:tid 416] AH00418: Parent: Created child process 16084
+[Mon Feb 27 17:31:25.360060 2023] [ssl:warn] [pid 16084:tid 456] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 17:31:25.415911 2023] [ssl:warn] [pid 16084:tid 456] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 27 17:31:25.476749 2023] [mpm_winnt:notice] [pid 16084:tid 456] AH00354: Child: Starting 150 worker threads.
