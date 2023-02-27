@@ -23,6 +23,8 @@ Using Youtube API I have shown videos of some tech Youtube channels in my Applic
 
 **Youtube API:** Youtube API V3 for showing video in APP.
 
+**ImageSlider:** GlideImageSlider
+
 
 ## Dependencies
 
