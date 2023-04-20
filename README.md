@@ -9,7 +9,7 @@ Using Youtube API I have shown videos of some tech Youtube channels in my Applic
 
 ## Requirements
 - Android Studio
-- JDK(Java Development Key)
+- JDK(Java Development Kit)
 - XAMPP Server.
 ## Tech Stack
 
